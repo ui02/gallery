@@ -1,6 +1,6 @@
 ---
-description: Gallery. photoes taken by ui.
-lastmod: 2025-05-11
+#description: Photoes taken by ui.
+#lastmod: 2025-05-11
 title: Gallery
 resources:
   - src: top.jpg
