@@ -1,7 +1,7 @@
 ---
 #description: Photoes taken by ui.
 #lastmod: 2025-05-11
-title: Gallery
+title: gallery
 resources:
   - src: top.jpg
     params:
