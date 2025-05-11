@@ -32,6 +32,7 @@ body > header {
   }
   margin-bottom: 0;
 }
-:root [
+
+:root {
 background-image: url("https://64.media.tumblr.com/39d5fa6bb3a45ba60e904b78f6fcf70f/5eb41496c2f32c70-ae/s2048x3072/cc743a20b2e2a9041442b7ea8cf7d5da805ca0e7.png");
-]
+}
