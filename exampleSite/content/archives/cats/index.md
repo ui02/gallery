@@ -1,8 +1,6 @@
 ---
 date: 2024-01-01
-featured_image: manja-vitolic-gKXKBY-C-Dk-unsplash.jpg
 title: 2024
-#type: gallery
 sort_by: Name
 categories: ["2024", "archives"]
 resources:
