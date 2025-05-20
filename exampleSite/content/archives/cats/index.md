@@ -1,7 +1,9 @@
 ---
-#date: 2024-01-01
+date: 2024-01-01
+featured_image: manja-vitolic-gKXKBY-C-Dk-unsplash.jpg
 title: 2024
-#sort_by: Name
+#type: gallery
+sort_by: Name
 categories: ["2024", "archives"]
 resources:
   - src: alexander-london-mJaD10XeD7w-unsplash.jpg
