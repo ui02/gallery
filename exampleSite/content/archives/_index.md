@@ -1,7 +1,7 @@
 ---
-description: This is the "Archive" album. It has two sub-albums.
+description: This is the "Archives" album. It has two sub-albums.
 keywords: [2023, 2024, archive]
-title: Archive
+title: Archives
 weight: 1
 menus: "main"
 # list pages require at least one image to be displayed.
