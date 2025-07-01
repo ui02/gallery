@@ -1,0 +1,19 @@
+backend:
+  name: github
+  repo: ui02/gallery  # ← 自分のリポジトリ名に変えてね
+  branch: main
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "posts"
+    label: "記事"
+    folder: "content/post"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "タイトル", name: "title", widget: "string" }
+      - { label: "本文", name: "body", widget: "markdown" }
+      - { label: "画像", name: "image", widget: "image" }
+
