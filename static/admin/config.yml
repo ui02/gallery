@@ -1,9 +1,8 @@
 backend:
-  name: github
-  repo: ui02/gallery  # ← 自分のリポジトリ名に変えてね
+  name: git-gateway
   branch: main
 
-media_folder: "static/uploads"
+media_folder: "uploads"
 public_folder: "/uploads"
 
 collections:
@@ -16,4 +15,3 @@ collections:
       - { label: "タイトル", name: "title", widget: "string" }
       - { label: "本文", name: "body", widget: "markdown" }
       - { label: "画像", name: "image", widget: "image" }
-
