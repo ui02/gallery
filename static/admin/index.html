@@ -4,6 +4,11 @@
     <meta charset="utf-8" />
     <title>Content Manager</title>
   </head>
+<script>
+  if (window.location.hash.startsWith('#invite_token=')) {
+    window.location.href = '/admin/' + window.location.hash;
+  }
+</script>
   <body>
     <!-- ここで Decap CMS を読み込む -->
     <script src="https://unpkg.com/decap-cms@latest/dist/decap-cms.js"></script>
