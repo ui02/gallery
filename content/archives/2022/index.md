@@ -1,8 +1,8 @@
 ---
-#date: 2022-01-01
-title: 2022
-#sort_by: Name
-categories: ["archives"]
+date: 2024-01-01
+title: 2024
+sort_by: Name
+categories: ["2024", "archives"]
 resources:
   - src: alexander-london-mJaD10XeD7w-unsplash.jpg
     title: Brown tabby cat on white stairs by Alexander London
