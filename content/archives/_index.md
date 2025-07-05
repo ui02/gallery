@@ -1,12 +1,13 @@
 ---
-description: This is the "Archives" album. It has two sub-albums.
-keywords: [2023, 2024, archives]
-title: Archives
-weight: 1
+description: Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.
 menus: "main"
-# list pages require at least one image to be displayed.
+title: Fashion & Beauty
+weight: 2
+categories: ["beauty", "fashion"]
+params:
+  theme: light
 resources:
-  - src: janis-ringli-UC1pzyJFyvs-unsplash.jpg
+  - src: mina-rad-V94CguEmeos-unsplash.jpg
     params:
       cover: true
 ---
