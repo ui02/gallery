@@ -4,13 +4,23 @@
     <meta charset="utf-8" />
     <title>Content Manager</title>
   </head>
-<script>
-  if (window.location.hash.startsWith('#invite_token=')) {
-    window.location.href = '/admin/' + window.location.hash;
-  }
-</script>
   <body>
-    <!-- ここで Decap CMS を読み込む -->
+    <script>
+      // invite_token を /admin/ にリダイレクト
+      if (window.location.hash.startsWith('#invite_token=')) {
+        window.location.href = '/admin/' + window.location.hash;
+      }
+
+      // Decap CMS を手動で初期化
+      window.CMS_MANUAL_INIT = true;
+    </script>
+
     <script src="https://unpkg.com/decap-cms@latest/dist/decap-cms.js"></script>
+
+    <script>
+      CMS.init({
+        config: "/admin/config.yml"
+      });
+    </script>
   </body>
 </html>
