@@ -1,7 +1,7 @@
 ---
-#date: 2023-01-01
-title: 2023
-categories: ["2023", "archives"]
+#date: 2025-01-01
+title: 2025
+categories: ["archives"]
 resources:
   - src: milli-2l0CWTpcChI-unsplash.jpg
     params:
