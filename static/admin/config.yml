@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: ui02/gallery  # ←あなたのGitHubリポジトリ名に変更
   branch: main  # ブランチ名が別なら適宜変更
 
 media_folder: "static/uploads"
