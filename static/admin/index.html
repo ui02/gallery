@@ -17,10 +17,11 @@
 
     <script src="https://unpkg.com/decap-cms@latest/dist/decap-cms.js"></script>
 
-    <script>
-      CMS.init({
-        config: "/admin/config.yml"
-      });
-    </script>
+<script>
+  CMS.init({
+    config: "/admin/config.yml",
+    site_id: "gallery02"  // ← ここをNetlifyのSite Nameにあわせて明示的に
+  });
+</script>
   </body>
 </html>
