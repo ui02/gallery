@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: ui02/gallery  # ←あなたのGitHubリポジトリ名に変更
-  branch: main  # ブランチ名が別なら適宜変更
+  repo: ui02/gallery
+  branch: main
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
