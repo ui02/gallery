@@ -1,9 +1,9 @@
 ---
 description: Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.
 menus: "main"
-title: Fashion & Beauty
+title: Archives
 weight: 2
-categories: ["beauty", "fashion"]
+categories: ["2023", "2024"]
 params:
   theme: light
 resources:
