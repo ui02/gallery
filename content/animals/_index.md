@@ -1,6 +1,6 @@
 ---
 description: This is the "Animals" album. It has two sub-albums.
-keywords: [Animals, Photos, Cats, Dogs]
+keywords: [Animals, Cats, Dogs]
 title: Animals
 weight: 1
 menus: "main"
