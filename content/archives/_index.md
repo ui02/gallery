@@ -1,6 +1,6 @@
 ---
 description: This is the "Archives" album. It has two sub-albums.
-keywords: [2023, 2024, archives]
+keywords: [archives, 2022, 2023, 2024, 2025]
 title: Archives
 weight: 1
 menus: "main"
