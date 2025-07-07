@@ -3,7 +3,7 @@ description: Fashion is a powerful form of self-expression. This category docume
 menus: "main"
 title: Fashion
 weight: 2
-categories: ["fashion"]
+categories: ["fashion", "beauty"]
 params:
   theme: light
 resources:
