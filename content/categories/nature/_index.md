@@ -1,4 +1,4 @@
 ---
 title: Nature
-description: `content/categories/nature/_index.md`.
+description: content/categories/nature/_index.md
 ---
