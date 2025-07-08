@@ -1,8 +1,8 @@
 ---
 description: トップのサムネから＞https://ui02.github.io/gallery/nature/
 menus: "main"
-title: Nature
-categories: ["nature"]
+title: Travel
+categories: ["travel"]
 weight: 3
 params:
   featured_image: azzedine-rouichi-ZS_XuDZmxpM-unsplash.jpg
