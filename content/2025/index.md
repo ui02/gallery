@@ -7,7 +7,7 @@ categories: ["Archives", "2025"]
 params:
   theme: light
 resources:
-  - src: content/archives/2025/IMG_20250623_230730.jpg
+  - src: IMG_20250623_230730.jpg
     params:
       cover: true
 ---
