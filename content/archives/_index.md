@@ -8,7 +8,7 @@ params:
   featured: true
 # list pages require at least one image to be displayed.
 resources:
-  - src: ui02/gallery/content/archives/2025/IMG_20250623_230730.jpg
+  - src: IMG_20250623_230730.jpg
     params:
       cover: true
 ---
