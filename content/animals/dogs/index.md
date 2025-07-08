@@ -4,7 +4,7 @@ title: Dogs
 categories: ["animals", "nature"]
 params:
   featured: false
-  private: false # do not show in list, only as feature
+  private: true # do not show in list, only as feature
 resources:
   - src: milli-2l0CWTpcChI-unsplash.jpg
     params:

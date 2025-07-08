@@ -5,7 +5,7 @@ sort_by: Name
 categories: ["animals", "nature"]
 params:
   featured: false
-  private: false # do not show in list, only as feature
+  private: true # do not show in list, only as feature
 resources:
   - src: alexander-london-mJaD10XeD7w-unsplash.jpg
     title: Brown tabby cat on white stairs by Alexander London

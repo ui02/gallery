@@ -6,7 +6,7 @@ weight: 5
 menus: "main"
 params:
   featured: false
-  private: false # do not show in list, only as feature
+  private: true # do not show in list, only as feature
 # list pages require at least one image to be displayed.
 resources:
   - src: janis-ringli-UC1pzyJFyvs-unsplash.jpg
