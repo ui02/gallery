@@ -7,7 +7,7 @@ menus:
 params:
   featured: 
 resources:
-  - src: IMG_20250623_230730.jpg
+  - src: 
     params:
       cover: true
 ---
