@@ -1,11 +1,12 @@
 ---
 description: トップのサムネから＞https://ui02.github.io/gallery/nature/
 menus: "main"
-title: dailylife
+title: featured 
 categories: ["dailylife"]
 weight: 3
 params:
-  featured_image: azzedine-rouichi-ZS_XuDZmxpM-unsplash.jpg
+  featured: true
+  private: false
   theme: dark
   sort_order: desc
   sort_by: Name # Exif.Date
