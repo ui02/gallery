@@ -1,8 +1,8 @@
 ---
 description: トップのサムネから＞https://ui02.github.io/gallery/nature/
 menus: "main"
-title: Travel
-categories: ["travel"]
+title: dailylife
+categories: ["dailylife"]
 weight: 3
 params:
   featured_image: azzedine-rouichi-ZS_XuDZmxpM-unsplash.jpg
@@ -10,7 +10,7 @@ params:
   sort_order: desc
   sort_by: Name # Exif.Date
 resources:
-  - src: azzedine-rouichi-ZS_XuDZmxpM-unsplash.jpg
+  - src: IMG_20250623_230730.jpg
     params:
       cover: true
 ---
