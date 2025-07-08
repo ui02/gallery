@@ -1,13 +1,13 @@
 ---
 description: 2025
-menus: 
+menus: "main"
 title: 2025
-weight: 
-categories: ["2025"]
+weight: 5
+categories: ["Archives", "2025"]
 params:
   theme: light
 resources:
-  - src: mina-rad-V94CguEmeos-unsplash.jpg
+  - src: content/archives/2025/IMG_20250623_230730.jpg
     params:
       cover: true
 ---
