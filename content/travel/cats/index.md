@@ -2,7 +2,7 @@
 date: 2023-04-01
 title: Cats
 sort_by: Name
-categories: ["animals", "nature"]
+categories: ["travel", ""]
 params:
   featured: false
   private: true # do not show in list, only as feature

@@ -1,7 +1,7 @@
 ---
 date: 2023-01-12
 title: Dogs
-categories: ["animals", "nature"]
+categories: ["travel", ""]
 params:
   featured: false
   private: true # do not show in list, only as feature
