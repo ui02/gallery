@@ -1,5 +1,5 @@
 ---
-description: gallery
+description: 
 #lastmod: 2025-07-09
 title: view
 resources:
