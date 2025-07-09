@@ -2,7 +2,7 @@
 date: 2022-01-01
 title: 2022
 sort_by: Name
-categories: ["archives", "2022"]
+categories: ["2022"]
 resources:
   - src: 202204_006.jpg
     title: ぱえりゃー
