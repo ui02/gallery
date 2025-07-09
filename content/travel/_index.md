@@ -2,7 +2,7 @@
 description: 
 keywords: [Travel]
 title: Travel
-weight: 5
+weight: 3
 menus: "main"
 params:
   featured: false

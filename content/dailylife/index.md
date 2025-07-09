@@ -3,7 +3,7 @@ description: dailylife
 menus: "main"
 title: 2025
 categories: ["2025"]
-weight: 3
+weight: 2
 params:
   featured: false
   private: false
