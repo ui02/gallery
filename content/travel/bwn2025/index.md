@@ -1,6 +1,6 @@
 ---
 date: 2025-06-17
-title: Brunei 2025
+title: Brunei
 sort_by: Name
 categories: ["brunei", "2025"]
 theme: dark
