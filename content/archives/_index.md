@@ -5,7 +5,7 @@ title: Archives
 weight: 2
 menus: "main"
 params:
-  featured: true
+  featured: false
 resources:
   - src: 202204_006.jpg
     params:
