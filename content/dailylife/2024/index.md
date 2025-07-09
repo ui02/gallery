@@ -2,7 +2,7 @@
 date: 2024-01-01
 title: 2024
 sort_by: Name
-categories: ["archives", "2024"]
+categories: ["2024"]
 resources:
   - src: IMG_20240929_193528.jpg
     title: しゅ～
