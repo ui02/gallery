@@ -1,6 +1,6 @@
 ---
 date: 2025-06-14
-title: Australia 2025
+title: Australia
 sort_by: Name
 categories: ["australia", "2025"]
 theme: dark
