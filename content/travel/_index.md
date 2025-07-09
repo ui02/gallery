@@ -1,6 +1,6 @@
 ---
-description: This is the "Travel" album.
-keywords: [Travel, AUS]
+description: 
+keywords: [Travel]
 title: Travel
 weight: 5
 menus: "main"
