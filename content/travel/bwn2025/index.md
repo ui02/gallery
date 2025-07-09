@@ -2,7 +2,7 @@
 date: 2025-06-18
 title: Brunei 2025
 sort_by: Name
-categories: ["brunei"]
+categories: ["brunei", "2025"]]
 params:
   featured: false
   private: false # do not show in list, only as feature
