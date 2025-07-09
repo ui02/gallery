@@ -5,7 +5,7 @@ title: 2025
 categories: ["2025"]
 weight: 3
 params:
-  featured: true
+  featured: false
   private: false
   theme: dark
   sort_order: desc
