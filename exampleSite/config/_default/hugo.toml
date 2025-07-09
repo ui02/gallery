@@ -30,7 +30,7 @@ title = "Gallery"
     #boxSpacing = 10
     #targetRowHeight = 288
     #targetRowHeightTolerance = 0.25
-
+    showDownload = false
 [outputs]
   home = ["HTML", "RSS"]
   page = ["HTML"]

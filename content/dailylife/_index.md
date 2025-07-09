@@ -1,7 +1,7 @@
 ---
-description: This is the "Archives" album. It has two sub-albums.
-keywords: [Archives]
-title: Archives
+description: 
+keywords: [Dailylife]
+title: Dailylife
 weight: 4
 menus: "main"
 params:
