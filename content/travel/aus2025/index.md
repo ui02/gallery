@@ -2,7 +2,7 @@
 date: 2025-06-14
 title: Australia
 sort_by: Name
-categories: ["australia", "2025"]
+categories: ["travel", "2025"]
 theme: dark
 resources:
   - src: IMG_20250615_111912.jpg
