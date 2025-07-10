@@ -2,7 +2,7 @@
 date: 2025-06-17
 title: Brunei
 sort_by: Name
-categories: ["travel", "2025"]
+categories: ["2025"]
 theme: dark
 params:
   featured: false
