@@ -11,7 +11,7 @@ params:
   sort_order: desc
   sort_by: Name # Exif.Date
 resources:
-  - src: img_20250405_124342.jpg
+  - src: 
     params:
       cover: true
 ---
