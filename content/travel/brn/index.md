@@ -1,14 +1,17 @@
 ---
 date: 2025-06-17
+description: 2025年に訪れたブルネイ
 title: Brunei
-sort_by: Name
-categories: ["2025"]
+menus: "main"  # 必要に応じてトップページに出す
+weight: 10
+categories: ["2025", "brunei", "travel"]
 theme: dark
+sort_by: Name
 params:
   featured: false
   private: false # do not show in list, only as feature
 resources:
-  - src: IMG_20250614_013307.jpg
+  - src: images/bwn/IMG_20250614_013307.jpg
     title: ビスケット？
     params:
       cover: true
