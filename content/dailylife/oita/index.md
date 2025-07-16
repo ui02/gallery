@@ -1,8 +1,8 @@
 ---
-description: dailylife
+description: Memoirs of a Wanderer
 menus: 
 title: oita
-categories: ["2025", "oita"]
+categories: ["2025", "japan"]
 weight: 2
 params:
   featured: true
