@@ -11,7 +11,7 @@ params:
   featured: false
   private: false # do not show in list, only as feature
 resources:
-  - src: images/bwn/IMG_20250614_013307.jpg
+  - src: images/travel/2025brnIMG_20250614_013307.jpg
     title: ビスケット？
     params:
       cover: true
