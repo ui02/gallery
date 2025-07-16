@@ -8,7 +8,7 @@ categories: ["2025", "brunei", "travel"]
 theme: dark
 sort_by: Name
 params:
-  featured: false
+  featured: true
   private: false # do not show in list, only as feature
 resources:
   - src: /travel/2025brn/IMG_20250614_013307.jpg
