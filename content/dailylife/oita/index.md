@@ -5,7 +5,7 @@ title: oita
 categories: ["2025", "japan"]
 weight: 2
 params:
-  featured: true
+  featured: false
   private: false
   theme: dark
   sort_order: desc
