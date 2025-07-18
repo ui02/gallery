@@ -1,7 +1,7 @@
 ---
 description: 
 menus: 
-title: 長崎
+title: 山梨
 categories: ["trip"]
 weight: 2
 params:

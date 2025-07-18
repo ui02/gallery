@@ -1,7 +1,7 @@
 ---
 description: 
 menus: 
-title: 長崎
+title: 大阪
 categories: ["trip"]
 weight: 2
 params:

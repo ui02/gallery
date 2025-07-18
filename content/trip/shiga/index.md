@@ -1,7 +1,7 @@
 ---
 description: 
 menus: 
-title: Osaka
+title: 滋賀
 categories: ["trip"]
 weight: 2
 params:
