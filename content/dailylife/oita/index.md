@@ -1,8 +1,8 @@
 ---
-description: Memoirs of a Wanderer
+description: 2018-2019
 menus: 
 title: Oita
-categories: ["2025", "japan"]
+categories: ["dailylife"]
 weight: 2
 params:
   featured: false
@@ -15,3 +15,4 @@ resources:
     params:
       cover: true
 ---
+#memories of a wanderer
