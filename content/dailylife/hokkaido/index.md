@@ -1,7 +1,7 @@
-description: Memoirs of a Wanderer
+description: 2020
 menus: 
 title: Hokkaido
-categories: ["2020"]
+categories: ["dailylife"]
 weight: 2
 params:
   featured: false
@@ -14,3 +14,4 @@ resources:
     params:
       cover: true
 ---
+#memories of a wanderer
