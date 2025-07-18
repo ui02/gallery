@@ -1,7 +1,8 @@
+---
 description: 
 menus: 
-title: Osaka 2018
-categories: ["2018", "trip"]
+title: Osaka
+categories: ["trip"]
 weight: 2
 params:
   featured: false
