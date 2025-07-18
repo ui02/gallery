@@ -5,7 +5,7 @@ enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Asia/Tokyo"
 timeout = "120s"
-title = "Gallery"
+title = "■"
 
 [params]
   defaultTheme = "light"
@@ -16,7 +16,7 @@ title = "Gallery"
     name = "Your Name"
   [params.socialIcons]
     #facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
+    instagram = "https://www.instagram.com/yurilom"
     #github = "https://github.com/nicokaiser/hugo-theme-gallery/"
     #youtube = "https://www.youtube.com/"
     #email = "mailto:user@example.com"
