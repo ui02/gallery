@@ -1,7 +1,7 @@
 ---
 description: Memoirs of a Wanderer
 menus: 
-title: oita
+title: Oita
 categories: ["2025", "japan"]
 weight: 2
 params:

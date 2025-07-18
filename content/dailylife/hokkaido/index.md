@@ -1,7 +1,7 @@
 description: Memoirs of a Wanderer
 menus: 
-title: hyogo
-categories: ["2018", "japan"]
+title: Hokkaido
+categories: ["2020"]
 weight: 2
 params:
   featured: false
