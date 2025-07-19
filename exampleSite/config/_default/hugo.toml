@@ -11,6 +11,7 @@ title = "view"
   defaultTheme = "light"
   description = "Example site for hugo-theme-gallery"
   title = "My Gallery"
+  enableDownload = false
   [params.author]
     email = "user@example.com"
     name = "Your Name"
@@ -31,6 +32,7 @@ title = "view"
     #targetRowHeight = 288
     #targetRowHeightTolerance = 0.25
     showDownload = false
+    enableDownload = false
     
 [params]
   enableDownload = false
