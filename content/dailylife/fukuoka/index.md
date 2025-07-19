@@ -1,12 +1,18 @@
 ---
-date: 2020-01-01
-title: 2020
-sort_by: Name
+description: 2020-2021
+menus: 
+title: Fukuoka
 categories: ["dailylife"]
+weight: 2
+params:
+  featured: false
+  private: false
+  theme: dark
+  sort_order: desc
+  sort_by: Name # Exif.Date
 resources:
-  - src: IMG_20240929_193528.jpg
-    title: しゅ～
+  - src: 
     params:
       cover: true
-      hidden: false
 ---
+#memories of a wanderer
