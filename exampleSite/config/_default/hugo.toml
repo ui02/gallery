@@ -33,9 +33,6 @@ title = "view"
     #targetRowHeightTolerance = 0.25
     showDownload = false
     enableDownload = false
-    
-[params]
-  enableDownload = false
   
 [outputs]
   home = ["HTML", "RSS"]
