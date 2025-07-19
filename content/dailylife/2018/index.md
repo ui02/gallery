@@ -4,8 +4,8 @@ title: 2018
 sort_by: Name
 categories: ["dailylife"]
 resources:
-  - src: IMG_20240929_193528.jpg
-    title: しゅ～
+  - src: 2018-01-24 (3).jpg
+    title:
     params:
       cover: true
       hidden: false
