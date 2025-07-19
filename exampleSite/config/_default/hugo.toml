@@ -5,7 +5,7 @@ enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Asia/Tokyo"
 timeout = "120s"
-title = "■"
+title = "view"
 
 [params]
   defaultTheme = "light"
@@ -31,6 +31,10 @@ title = "■"
     #targetRowHeight = 288
     #targetRowHeightTolerance = 0.25
     showDownload = false
+    
+[params]
+  enableDownload = false
+  
 [outputs]
   home = ["HTML", "RSS"]
   page = ["HTML"]
@@ -42,7 +46,7 @@ title = "■"
   [imaging.exif]
     disableDate = false
     disableLatLong = true
-    includeFields = "ImageDescription|Orientation"
+    #includeFields = "ImageDescription|Orientation"
 
 [module]
   [module.hugoVersion]
