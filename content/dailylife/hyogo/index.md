@@ -1,7 +1,7 @@
 ---
-description: 2018-2019
+description: 2018
 menus: 
-title: Oita
+title: Hyogo
 categories: ["dailylife"]
 weight: 2
 params:
@@ -11,7 +11,7 @@ params:
   sort_order: desc
   sort_by: Name # Exif.Date
 resources:
-  - src: 2019-01-25.jpg
+  - src: 2018-05-03 (1).jpg
     params:
       cover: true
 ---
