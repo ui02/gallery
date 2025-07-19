@@ -7,7 +7,7 @@ menus: "main"
 params:
   featured: false
 resources:
-  - src: 202204_006.jpg
+  - src: IMG_20250623_230730.jpg
     params:
       cover: true
 ---
