@@ -20,7 +20,7 @@ if (gallery) {
     errorMsg: params.errorMsg,
   });
 
-  if (params.enableDownload) {
+//  if (params.enableDownload) {
     lightbox.on("uiRegister", () => {
       lightbox.pswp.ui.registerElement({
         name: "download-button",
@@ -43,7 +43,7 @@ if (gallery) {
         },
       });
     });
-  }
+//  }
 
   lightbox.on("change", () => {
     const target = lightbox.pswp.currSlide?.data?.element?.dataset["pswpTarget"];
