@@ -14,7 +14,7 @@ title = "view"
   enableDownload = false
   [params.author]
     email = "user@example.com"
-    name = "Your Name"
+    name = "ui02"
   [params.socialIcons]
     #facebook = "https://www.facebook.com/"
     instagram = "https://www.instagram.com/yurilom"
