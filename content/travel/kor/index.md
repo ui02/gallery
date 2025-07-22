@@ -1,8 +1,8 @@
 ---
-date: 2025-06-17
+date: 2024-11-06
 title: Korea
 sort_by: Name
-categories: ["2025"]
+categories: ["2024"]
 theme: dark
 params:
   featured: false
