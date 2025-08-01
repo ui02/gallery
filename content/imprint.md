@@ -1,5 +1,5 @@
 ---
-title: Imprint
+title: view
 rss_ignore: true
 layout: prose
 menu:
@@ -7,4 +7,6 @@ menu:
     weight: 1
 ---
 
-(Put your imprint here.)
+長年コツコツと築き上げてきたTumblrが垢BANされたので作ってみた。<br>
+ChatGPTと殴り合いながら完成した新しい城です。<br>
+Tumblrにあげてた古い写真も少しずつアップしていこうと思う。
