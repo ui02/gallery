@@ -1,12 +1,17 @@
 ---
-date: 2021-01-01
+description: dailylife
+menus: 
 title: 2021
-sort_by: Name
 categories: ["dailylife"]
+weight: 2
+params:
+  featured: true
+  private: false
+  theme: dark
+  sort_order: desc
+  sort_by: Name # Exif.Date
 resources:
-  - src: IMG_20240929_193528.jpg
-    title: しゅ～
+  - src: 
     params:
       cover: true
-      hidden: false
 ---
