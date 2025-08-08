@@ -5,7 +5,7 @@ title: 2018
 categories: ["dailylife"]
 weight: 
 params:
-  featured: true
+  featured: false
   private: false
   theme: dark
   sort_order: desc
