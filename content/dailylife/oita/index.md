@@ -3,7 +3,7 @@ description: 2018-2019
 menus: 
 title: Oita
 categories: ["dailylife"]
-weight: 2
+weight: 
 params:
   featured: false
   private: false
