@@ -3,7 +3,7 @@ description: dailylife
 menus: 
 title: 2021
 categories: ["dailylife"]
-weight: 2
+weight: 
 params:
   featured: true
   private: false
