@@ -3,7 +3,7 @@ description: 2020-2021
 menus: 
 title: Fukuoka
 categories: ["dailylife"]
-weight: 2
+weight: 
 params:
   featured: false
   private: false
