@@ -1,12 +1,17 @@
 ---
-date: 2018-01-01
+description: dailylife
+menus: 
 title: 2018
-sort_by: Name
 categories: ["dailylife"]
+weight: 
+params:
+  featured: true
+  private: false
+  theme: dark
+  sort_order: desc
+  sort_by: Name # Exif.Date
 resources:
   - src: 2018-01-24 (3).jpg
-    title:
     params:
       cover: true
-      hidden: false
 ---
