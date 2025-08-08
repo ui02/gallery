@@ -1,4 +1,5 @@
-description: 2020
+---
+description: 
 menus: 
 title: Hokkaido
 categories: ["dailylife"]
