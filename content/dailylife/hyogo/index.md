@@ -3,7 +3,7 @@ description: 2018
 menus: 
 title: Hyogo
 categories: ["dailylife"]
-weight: 2
+weight: 
 params:
   featured: false
   private: false
