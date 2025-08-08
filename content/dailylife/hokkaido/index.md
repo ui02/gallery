@@ -3,7 +3,7 @@ description:
 menus: 
 title: Hokkaido
 categories: ["dailylife"]
-weight: 2
+weight: 
 params:
   featured: false
   private: false
