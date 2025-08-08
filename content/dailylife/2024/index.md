@@ -3,7 +3,7 @@ description: dailylife
 menus: "main"
 title: 2024
 categories: ["dailylife","2024"]
-weight: 2
+weight: 
 params:
   featured: true
   private: false
