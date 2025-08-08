@@ -2,10 +2,10 @@
 description: dailylife
 menus: "main"
 title: 2024
-categories: ["dailylife","2024"]
+categories: ["dailylife"]
 weight: 
 params:
-  featured: true
+  featured: false
   private: false
   theme: dark
   sort_order: desc
