@@ -6,7 +6,7 @@ sort_by: Name
 categories: ["2025", "travel"]
 theme: dark
 resources:
-  - src: /IMG_20250615_230730.jpg
+  - src: IMG_20250616_103047.jpg
     title: ""
     params:
       cover: true
